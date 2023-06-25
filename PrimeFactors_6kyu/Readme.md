@@ -1,8 +1,8 @@
 # Prime Factors
 
-Inspired by one of Uncle Bob's TDD Kata
-<hr>
-<br>
+## 7kyu
+<hr> 
+
 Write a function that generates factors for a given number.
 
 The function takes an integer as parameter and returns a list of integers (ObjC: array of NSNumbers representing integers). That list contains the prime factors in numerical sequence.
