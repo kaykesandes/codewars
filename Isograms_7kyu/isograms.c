@@ -6,7 +6,7 @@
 /*   By: kayke <kayke@student.42.fr>                +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2023/06/25 12:34:41 by kayke             #+#    #+#             */
-/*   Updated: 2023/06/25 13:36:59 by kayke            ###   ########.fr       */
+/*   Updated: 2023/06/25 13:41:28 by kayke            ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
@@ -22,8 +22,8 @@ char ft_everyoneLowCase(char str)
 		str += 32;
     else
         return str;
+    return str;
 }
-
 
 bool IsIsogram (const char *string) 
 {
