@@ -22,5 +22,8 @@ int main(){
     else
         std::cout << "Não foi dessa";
 
-    return (0);
+
+    std::cout << "\nEnter ....";
+    std::cin.get();
+    return 0;
 }
